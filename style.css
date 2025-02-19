@@ -13,11 +13,13 @@ body{
     padding: 30px;
 }
 
-main{
+.p1{
     color: blanchedalmond;
     background-color: darkolivegreen;
     margin: 80px;
    padding: 40px;
+   border-style: double;
+   border-radius: 20px;
    
 }
 
@@ -48,4 +50,20 @@ header li a{
 img{
     height: 300px;
     margin-left: 500px;
+}
+
+h3{
+    color: blanchedalmond;
+    background-color: darkolivegreen;
+    margin: 40px;
+   padding: 40px;
+   border-style: double;
+   border-radius: 20px;
+}
+
+.img2{
+    display: block;
+    margin-left: 800px;
+    border-style: dotted;
+    border-color: olive;
 }
