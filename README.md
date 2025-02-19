@@ -1,1 +1,1 @@
-# personal-website
+# This will be a personal project detailing my portfolio, personal interests, and a little about myself.
