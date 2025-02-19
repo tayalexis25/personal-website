@@ -1,0 +1,43 @@
+
+
+header img{
+    height: 80px;
+    margin-left: 40px;
+}
+body{
+    height: 125vh;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3fffe330-0a41-49ed-9885-6e3aba462e70/ddxkac6-ebe2ffce-8080-4ebf-b301-598019f384b0.png/v1/fill/w_1264,h_632,q_70,strp/forest_of_pixels_by_bunnsp_ddxkac6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvM2ZmZmUzMzAtMGE0MS00OWVkLTk4ODUtNmUzYWJhNDYyZTcwXC9kZHhrYWM2LWViZTJmZmNlLTgwODAtNGViZi1iMzAxLTU5ODAxOWYzODRiMC5wbmciLCJ3aWR0aCI6Ijw9MTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.MzW32HMHMAiGPKa0hKe9lplA2-MZuYfJAZB3yHJVecc');
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 80px;
+    padding: 30px;
+}
+
+main{
+    color: blanchedalmond;
+}
+
+header{
+    background-color: antiquewhite;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+header *{
+    display: inline;
+}
+
+header li{
+    margin: 30px;
+}
+
+header li a{
+    color: darkgreen;
+    text-decoration: none;
+}
+
