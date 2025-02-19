@@ -15,6 +15,10 @@ body{
 
 main{
     color: blanchedalmond;
+    background-color: darkolivegreen;
+    margin: 80px;
+   padding: 40px;
+   
 }
 
 header{
@@ -41,3 +45,7 @@ header li a{
     text-decoration: none;
 }
 
+img{
+    height: 300px;
+    margin-left: 500px;
+}
